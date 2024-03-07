@@ -1,4 +1,5 @@
 class index{
 
-    system.out. 
+    system.out. println("hello")
 }
+public static void main(string[]args)
